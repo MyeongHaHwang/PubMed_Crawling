@@ -23,5 +23,3 @@ download <- function(file.name){
   curl_fetch_disk(url, path)
 }
 l_ply(file.list, download)
-
-#===============================================================
