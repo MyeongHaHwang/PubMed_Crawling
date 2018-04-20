@@ -15,3 +15,5 @@ Function = PubMed FTP(File Transfer Protocol) site crawling
 3.Download all .xml.gz files (Defined function)
 
 4.Implement the function using l_ply
+
+Contact: hmh929@kaist.ac.kr
